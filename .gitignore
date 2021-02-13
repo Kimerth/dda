@@ -1,6 +1,8 @@
 # Data from AidMe (for checking purpose)
 UserGrammar/
 
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
